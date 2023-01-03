@@ -1,1 +1,2 @@
 Hello World!
+Trying to add a new line to test commit feature
